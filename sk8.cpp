@@ -11,6 +11,7 @@ class Studi {
     int total[5];
     int hasil;
 
+	
    public:
     void input();
     void proses();
